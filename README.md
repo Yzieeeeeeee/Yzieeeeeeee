@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm yzieee 👋
 
-<!--
-**Yzieeeeeeee/Yzieeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer focused on building smooth, modern, and user-friendly mobile applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📱 Flutter & Dart Developer
+- 🎨 UI/UX focused development
+- 🔥 Firebase & REST API integration
+- 💡 Clean Architecture & state management
+- 🌱 Constantly learning and improving
+
+---
+
+## 🛠️ Tech Stack
+- Flutter / Dart
+- Firebase
+- REST APIs
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 🌐 Portfolio
+🔗 https://yzieeeeeeee.github.io/portfolio/
+
+---
+
+## 📫 Contact
+- Email: muhammedyasir3819@gmail.com
+- GitHub: https://github.com/Yzieeeeeeee
+
+---
+
+⭐ Feel free to check out my projects and connect!
