@@ -16,9 +16,12 @@ Flutter Developer focused on building smooth, modern, and user-friendly mobile a
 ## 🛠️ Tech Stack
 - Flutter / Dart
 - Firebase
+- Firebase Realtime Database
 - REST APIs
 - HTML, CSS, JavaScript
 - Git & GitHub
+- node js
+- mySQL & SQLite
 
 ---
 
