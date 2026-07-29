@@ -16,7 +16,7 @@ Over the past two years, I've developed multiple applications across different d
 * 🔄 Experience implementing CI/CD pipelines using GitHub Actions
 * 🌐 REST API integration and JSON data handling
 * 🎨 Passionate about creating modern and responsive UI/UX
-* 🤖 Interested in AI-powered mobile applications and automation
+* 🤖 Interested in building mobile applications
 * 📚 Continuously learning new technologies to build better software
 
 ---
